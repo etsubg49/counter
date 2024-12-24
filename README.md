@@ -32,4 +32,4 @@ To run this project locally, you need to have Node.js and npm installed on your 
 ### Main Interface
 Counter Interface ![counter Interface](https://github.com/user-attachments/assets/aa7bf38f-69af-44ef-9fb1-ccae52c5b31c)
 ## Author
-**Etsubdink Gashaw**- etsubg49
+**Etsubdink Gashaw**- [etsubg49](https://github.com/etsubg49)
