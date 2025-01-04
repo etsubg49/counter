@@ -12,7 +12,6 @@ To run this project locally, you need to have Node.js and npm installed on your 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/etsubg49/counter.git
-   cd counter-app
 2. **Install dependencies**:
     ```bash
     npm install
@@ -20,7 +19,7 @@ To run this project locally, you need to have Node.js and npm installed on your 
     ```bash
     npm run dev
 4. **Open your browser**:
-    and navigate to http://localhost:3000 to see the app in action.
+    and navigate to the link on the terminal to see the app in action.
 ## Usage
 
 **Increment**: Click the "Increment" button to increase the counter value by 1.
